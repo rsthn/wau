@@ -1,0 +1,22 @@
+{
+  "name": "@rsthn/wau",
+  "version": "1.0.0",
+  "description": "Web-App Utilities",
+  "main": "index.js",
+  "bin": {
+    "wau": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo Ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsthn/wau.git"
+  },
+  "author": "RedStar Technologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsthn/wau/issues"
+  },
+  "homepage": "https://github.com/rsthn/wau#readme"
+}
